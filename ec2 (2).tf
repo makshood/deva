@@ -17,7 +17,7 @@ resource "aws_instance" "centos7" {
 					}
 					
 					tags{
-					"Name"						="centos7"
+					"Name"						="centos1"
 					}
 					
 					}
